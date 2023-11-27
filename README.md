@@ -13,7 +13,7 @@ The objective of this project is to develop a deep learning model using the VGG-
 * Used Flask to build the web application.
 
 | Loss                                                     | Accuracy                                                     |
-| ![train vs val loss](./images/train_vs_val_accuracy.png) | ![train vs val accuracy](./images/train_vs_val_loss.png) |
+| ![train vs val loss](./images/train_vs_val_loss.png) | ![train vs val accuracy](./images/train_vs_val_accuracy.png) |
 
 
 ## How to Run
