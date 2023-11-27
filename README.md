@@ -12,10 +12,8 @@ The objective of this project is to develop a deep learning model using the VGG-
 * The validation loss & validation accuracy for the model was 0.39 & 84% respectively.
 * Used Flask to build the web application.
 
-
-![train vs val loss](https://github.com/AnonymousSurya/Cat_Dog_Image_Classification_VGG16/assets/76435009/c2905729-6c1b-40a4-89d6-682b6adf323a) 
-
-![train vs val accuracy](https://github.com/AnonymousSurya/Cat_Dog_Image_Classification_VGG16/assets/76435009/79f20a10-9c5b-4608-83f3-1c38016b7b2d)
+| Loss                                                     | Accuracy                                                     |
+| ![train vs val loss](./images/train_vs_val_accuracy.png) | ![train vs val accuracy](./images/train_vs_val_loss.png) |
 
 
 ## How to Run
